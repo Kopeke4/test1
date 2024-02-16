@@ -1,4 +1,4 @@
-## Soukoban
+## PEDROCHETADO
 Copia del Soukoban
 ## Installation
 TODO: Describe the installation process
