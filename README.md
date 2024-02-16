@@ -1,5 +1,5 @@
-Soukoban
-TODO: Copia del Soukoban
+## Soukoban
+Copia del Soukoban
 ## Installation
 TODO: Describe the installation process
 ## Usage
