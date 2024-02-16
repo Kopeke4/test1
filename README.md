@@ -1,6 +1,5 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Soukoban}
+
+# KOPEKE
 TODO: Copia del Soukoban
 ## Installation
 TODO: Describe the installation process
@@ -18,6 +17,3 @@ TODO: Write history
 TODO: Write credits
 ## License
 TODO: Write license
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
